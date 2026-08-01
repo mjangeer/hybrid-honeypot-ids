@@ -127,11 +127,13 @@ To reprocess archived attack batches for regression testing:
 
 ## Screenshots
 
-<!-- Add these once the repo is up. The dashboard is your strongest visual — put it first.
-Save the images in a docs/ folder and reference them like this:
-![SOC Dashboard](docs/dashboard.png)
-![Hybrid verdicts across all four risk levels](docs/verdicts.png)
--->
+**Live dashboard — Batch 1 baseline (27 sessions across all four risk tiers):**
+
+![Hybrid Honeypot Detection Dashboard](dashboard.png)
+
+**Batch selector — switching to Batch 5 Mixed for forensic comparison:**
+
+![Dashboard batch comparison view](dashboard-batch.png)
 
 ---
 
